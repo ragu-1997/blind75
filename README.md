@@ -1,9 +1,7 @@
 
 # Blind 75
 
-The store where you put yourself in auction and get appreciated with others Inshort , you can deploy your React ,Django , Flutter , Android Application and showcase to the visitors Hit the deploy button and becaome a stall owner in this Store , You can submit your Ideas 
-
-
+Place where you Put your algorithm 
 
 ## Built with
 Leetcode 
