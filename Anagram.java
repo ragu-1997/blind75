@@ -15,6 +15,7 @@ public class Anagram {
                  break;
              }
          }
+         
          if(!isAnagram){
              break;
          }
